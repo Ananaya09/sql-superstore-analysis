@@ -1,7 +1,8 @@
+
+
 # Superstore Sales Analysis - SQL Project
 
-SQL-based profitability analysis of the **Sample Superstore** retail sales dataset using **MySQL**.
-
+A profitability analysis of the **Sample Superstore** dataset using **MySQL**.
 ### Project Overview
 - **Dataset**: Sample Superstore (Kaggle) 
 - **Tool**: MySQL Workbench
